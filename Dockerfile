@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ichwill100/flask-sample-demo:latest
 
 MAINTAINER Your Name "saul.vaca@amaris.com"
 
